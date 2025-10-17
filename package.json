@@ -1,0 +1,28 @@
+{
+  "name": "tylzh97.github.io",
+  "version": "0.1.0",
+  "description": "Personal blog powered by VitePress",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylzh97/tylzh97.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/tylzh97/tylzh97.github.io/issues"
+  },
+  "homepage": "https://github.com/tylzh97/tylzh97.github.io#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "dependencies": {
+    "vue": "^3.5.22"
+  }
+}
